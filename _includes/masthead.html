@@ -4,6 +4,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ domain }}/">Homepage</a></li>
           {% assign page_source = page.content | default: content | default: "" %}
           {% for link in site.data.navigation.main %}
             {% assign show_link = true %}
