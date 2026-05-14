@@ -46,4 +46,4 @@ The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI'26, CCF A**)
    Xinxing Yu, Liying Yang, Hao Mo, Hui Ma, **Fang Kai**, Ajian Liu,Yanyan Liang (**ICML'26, CCF A**)
  
 ---
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=34taVYypIaftBuBTVtFkhL1Jql8xXlrWROpcbKDStLA'></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ppB4EGu5DbDdjMdfXoCfOtd5OBvDN7wtKX6mGJlKpmE"></script>
