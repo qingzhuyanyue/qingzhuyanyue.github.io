@@ -24,7 +24,7 @@ author:
   name             : "Fang Kai (开放)"
   avatar           : "images/profile.png"
   avatar_width     : "160px"
-  avatar_height    : "190px"
+  avatar_height    : "200px"
   avatar_object_fit: "cover"
   avatar_border_radius: "50%"
   bio              : "fangk@student.must.edu.mo"
