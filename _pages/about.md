@@ -30,28 +30,24 @@ I am currently a first-year M.S student in the School of Computer Science and En
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/PointCHR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/LightCSCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems**](https://arxiv.org/abs/2604.26231)
+[**Revisiting Contrastive Learning in Collaborative Filtering via Parallel Graph  Filters**](https://doi.org/10.1609/aaai.v40i17.38521)
 
-**Yi Zhang**, Yiwen Zhang, Kai Zheng, Tong Chen, Hongzhi Yin. 
-The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'26, CCF A**)[[Code](https://github.com/BlueGhostYi/ProRec)]
+**Fang Kai**, Yu Zhang, Kaibin Wang, Lei Sang, Yiwen Zhang.
+The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI'26, CCF A**)
 </div>
 </div>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# 📝 Other Publications 
+1. **PointCHR: Point Cloud Analysis via Curvature-Aware Hyperbolic Rectification**.
+   Xinxing Yu, Liying Yang, Hao Mo, Hui Ma, **Fang Kai**, Ajian Liu,Yanyan Liang (**ICML'26, CCF A**)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -64,4 +60,7 @@ The 49th International ACM SIGIR Conference on Research and Development in Infor
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+ 
+---
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=34taVYypIaftBuBTVtFkhL1Jql8xXlrWROpcbKDStLA'></script>
