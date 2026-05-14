@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fang Kai (开放)"
   avatar           : "images/profile.png"
-  avatar_width     : "150px"
-  avatar_height    : "190px"
+  avatar_width     : "160px"
+  avatar_height    : "180px"
   avatar_object_fit: "cover"
   avatar_border_radius: "8px"
-  bio              : " "
+  bio              : "fangk@student.must.edu.mo"
   location         : "Macau, China"
   employer         : "Macau University of Science and Technology"
   pubmed           : 
