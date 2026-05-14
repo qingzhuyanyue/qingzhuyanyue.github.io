@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year M.S student in the School of Computer Science and Engineering at Macau University of Science and Technology, under the supervision of Professor [Yanyan Liang](!https://fie.must.edu.mo/id-1444/person/view/id-484.html). Additionally, I completed a short term research assistant at Anhui University under the guidance of Professor [Yiwen Zhang](!https://bigdata.ahu.edu.cn/). I received my Bachelor's degree in the School of Mathematical Sciences at East China Normal University. I have been invited to serve as reviewer for AAAI. My research interests primarily focus on graph recommender systems, generative recommendation and reinforcement learning for recommender system: 
+I am currently a first-year M.S student in the School of Computer Science and Engineering at Macau University of Science and Technology, under the supervision of Professor [Yanyan Liang](https://fie.must.edu.mo/id-1444/person/view/id-484.html). Additionally, I completed a short term research assistant at Anhui University under the guidance of Professor [Yiwen Zhang](https://bigdata.ahu.edu.cn/). I received my Bachelor's degree in the School of Mathematical Sciences at East China Normal University. I have been invited to serve as reviewer for AAAI. My research interests primarily focus on graph recommender systems, generative recommendation and reinforcement learning for recommender system: 
 
 1. **Graph Recommendation**: Graph recommender system represents users, items and other entities as nodes, and represents the relationships between them as edges. It utilizes the graph structure to enhance the quality of recommendations. Graph neural networks are widely applied in graph recommendation to obtain high-quality embedding representations for users and items. 
 2. **Generative recommendation**: Generative recommendation utilizes generative models to generate items, contents or interaction results that users might like. Generative recommendation models are designed to learn the underlying data distribution and directly generate new content or recommendations.
@@ -44,23 +44,6 @@ The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI'26, CCF A**)
 # 📝 Other Publications 
 1. **PointCHR: Point Cloud Analysis via Curvature-Aware Hyperbolic Rectification**.
    Xinxing Yu, Liying Yang, Hao Mo, Hui Ma, **Fang Kai**, Ajian Liu,Yanyan Liang (**ICML'26, CCF A**)
-
-
-
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
  
 ---
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=34taVYypIaftBuBTVtFkhL1Jql8xXlrWROpcbKDStLA'></script>
