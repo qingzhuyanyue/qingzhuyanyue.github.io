@@ -81,20 +81,24 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px;
+  width: var(--author-avatar-width, 75px);
   // set width only, for non-square avatars
   // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: var(--author-avatar-width, 175px);
     height: auto;
   }
 
-  img {
-    max-width: 175px;
+  .author__avatar-img {
+    display: block;
+    width: var(--author-avatar-width, 100%);
+    height: var(--author-avatar-height, auto);
+    max-width: 100%;
     min-width: 75px;
-    border-radius: 50%;
+    object-fit: var(--author-avatar-fit, cover);
+    border-radius: var(--author-avatar-radius, 50%);
 
     @include breakpoint($large) {
       padding: 5px;
@@ -235,6 +239,11 @@
 
   li {
     white-space: nowrap;
+  }
+
+  li.author__employer {
+    white-space: normal;
+    overflow-wrap: anywhere;
   }
 
   a {

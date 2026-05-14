@@ -4,9 +4,18 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          {% assign page_source = page.content | default: content | default: "" %}
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign show_link = true %}
+            {% if link.show_if %}
+              {% assign show_link = false %}
+              {% if page_source contains link.show_if %}
+                {% assign show_link = true %}
+              {% endif %}
+            {% endif %}
+            {% if show_link %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

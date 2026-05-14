@@ -4,8 +4,11 @@
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
-  <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+  <div
+    class="author__avatar"
+    style="{% if author.avatar_width %}--author-avatar-width: {{ author.avatar_width }};{% endif %}{% if author.avatar_height %}--author-avatar-height: {{ author.avatar_height }};{% endif %}{% if author.avatar_object_fit %}--author-avatar-fit: {{ author.avatar_object_fit }};{% endif %}{% if author.avatar_border_radius %}--author-avatar-radius: {{ author.avatar_border_radius }};{% endif %}"
+  >
+    <img src="{{ author.avatar | relative_url }}" class="author__avatar-img" alt="{{ author.name }}">
   </div>
 
   <div class="author__content">
@@ -23,7 +26,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li class="author__employer"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>

@@ -2,21 +2,28 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+    show_if: "id='about-me'"
 
   - title: "News"
     url: "/#-news"
+    show_if: "News"
 
   - title: "Publications"
     url: "/#-publications"
+    show_if: "Publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+    show_if: "Honors and Awards"
 
   - title: "Educations"
     url: "/#-educations"
+    show_if: "Educations"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
+    show_if: "Invited Talks"
 
   - title: "Internships"
     url: "/#-internships"
+    show_if: "Internships"
