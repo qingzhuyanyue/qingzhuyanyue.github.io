@@ -17,19 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a first-year M.S student in the School of Computer Science and Engineering at Macau University of Science and Technology, under the supervision of Professor [Yanyan Liang](!https://fie.must.edu.mo/id-1444/person/view/id-484.html). Additionally, I completed a short term research assistant at Anhui University under the guidance of Professor [Yiwen Zhang](!https://bigdata.ahu.edu.cn/). I received my Bachelor's degree in the School of Mathematical Sciences at East China Normal University. I have been invited to serve as reviewer for AAAI. My research interests primarily focus on graph recommender systems, generative recommendation and reinforcement learning for recommender system: 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+1. **Graph Recommendation**: Graph recommender system represents users, items and other entities as nodes, and represents the relationships between them as edges. It utilizes the graph structure to enhance the quality of recommendations. Graph neural networks are widely applied in graph recommendation to obtain high-quality embedding representations for users and items. 
+2. **Generative recommendation**: Generative recommendation utilizes generative models to generate items, contents or interaction results that users might like. Generative recommendation models are designed to learn the underlying data distribution and directly generate new content or recommendations.
+3. **Reinforcement Learning for Recommender System**: Reinforcement learning for recommender systems formulates recommendation as a sequential decision-making problem and continuously optimizes long-term rewards from user feedback.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.05*: &nbsp;🔥🔥 **One paper is accepted by the Forty-Third International Conference on Machine Learning (ICML'26) on Point Cloud Analysis.**
+- *2025.11*: &nbsp;🔥🔥 **One paper is accepted by The 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26) on graph contrastive learning for recommendation.**
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/PointCHR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+[**ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems**](https://arxiv.org/abs/2604.26231)
+
+**Yi Zhang**, Yiwen Zhang, Kai Zheng, Tong Chen, Hongzhi Yin. 
+The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'26, CCF A**)[[Code](https://github.com/BlueGhostYi/ProRec)]
+</div>
+</div>
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
