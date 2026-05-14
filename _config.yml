@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fang Kai (开放)"
   avatar           : "images/profile.png"
-  avatar_width     : "160px"
+  avatar_width     : "170px"
   avatar_height    : "200px"
   avatar_object_fit: "cover"
   avatar_border_radius: "50%"

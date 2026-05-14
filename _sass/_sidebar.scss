@@ -241,7 +241,7 @@
     white-space: nowrap;
   }
 
-  li.author__employer {
+  li.author__meta-item {
     display: flex;
     align-items: flex-start;
     max-width: 100%;
@@ -252,7 +252,7 @@
       margin-top: 0.2em;
     }
 
-    .author__employer-text {
+    .author__meta-text {
       flex: 1 1 auto;
       min-width: 0;
       white-space: normal;
